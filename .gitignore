@@ -9,6 +9,7 @@
 **/.idea/*.xml
 **/.idea/*.html
 **/.idea/copyright/*.xml
+.idea/*.xml
 
 .idea/dictionaries
 
